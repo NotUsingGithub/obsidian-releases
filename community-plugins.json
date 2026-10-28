@@ -67142,5 +67142,12 @@
     "author": "Becoming",
     "description": "Sync your Becoming highlights into your vault, one note per book, article, video or podcast. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "becoming-hq/becoming-obsidian"
+  },
+  {
+    "id": "wan-video-generator",
+    "name": "Wan AI Video and Image Generator",
+    "author": "Wan27",
+    "description": "Generate Wan 2.7 AI videos and images into your notes, estimate credit costs, and insert MCP configs with your wan2-7.io API key.",
+    "repo": "NotUsingGithub/obsidian-wan27"
   }
 ]
